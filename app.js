@@ -1,0 +1,1 @@
+document.body.innerHTML='<h2>Erro: app.js não encontrado.</h2>'
